@@ -1,4 +1,3 @@
-Aditya Sharma
 Web Developer
 
 <!---
