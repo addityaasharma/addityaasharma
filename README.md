@@ -24,6 +24,7 @@
 
 ## Public repositories
 
+- [flowbase](https://github.com/addityaasharma/flowbase): open-source Jira/Linear-style work tracker with an MCP server for AI agents
 - [sarvdrishti-showcase](https://github.com/addityaasharma/sarvdrishti-showcase): architecture and my role on the SarvDrishti AI platform (docs only)
 - [smartbus360-showcase](https://github.com/addityaasharma/smartbus360-showcase): GPS stop-detection pipeline and production fixes for SmartBus360 (docs only)
 - [Ecommerce-with-System-Designing](https://github.com/addityaasharma/Ecommerce-with-System-Designing): multi-vendor e-commerce backend in TypeScript
